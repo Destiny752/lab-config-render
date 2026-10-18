@@ -7,3 +7,8 @@ services:
     envVars:
       - key: ENTORNO
         value: laboratorio
+envVars:
+  - key: ENTORNO
+    value: laboratorio
+  - key: NIVEL_LOG
+    value: debug
